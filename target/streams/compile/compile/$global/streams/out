@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E019] Syntax Error: D:\Development\Scala\minesweeper-solver\src\main\scala\GameController.scala:22:30 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m22 |[0m  [33mdef[0m [36mrevealAt[0m(y: [35mInt[0m, x: [35mInt[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                              [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                              missing return type[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
